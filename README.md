@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+## Heading 2
+Add info about favorite series
