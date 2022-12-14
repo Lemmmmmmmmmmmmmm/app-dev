@@ -1,3 +1,3 @@
 # app-dev
-## Heading 2
+## H2
 Add info about favorite series
